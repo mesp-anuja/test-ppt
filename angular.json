@@ -15,6 +15,8 @@
           "options": {
             "outputPath": "dist/ppt-app",
             "index": "src/index.html",
+//            "baseHref" : "https://mesp-anuja.github.io/testppt/",
+//            "deployUrl": "https://mesp-anuja.github.io/testppt/",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "src/tsconfig.app.json",
